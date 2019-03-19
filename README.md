@@ -64,32 +64,38 @@ using scroll.
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+For the problem 1, the writer choose the Main Solution because it's mandatory for an
+important feature like changing language is visible from the start when user open the page
+
+For the problem 2, the writer also choose the Main Solution. The reason for selection
+because a highlighted object should be shown bigger to emphasize it. Another reason because
+it's easier to see other highlighted objects.
+
+For the problem 3, the writer choose Alternate Solution A because of it simplicity to
+iterate through objects only using click.
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+The sketch and its selection are made by making oneself seeing the problem from the
+perspective without minding advanced techniques one know. Using this method, one will know
+what's wrong with the interface and what should one do to make it better.
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+1. Computer with minimum requirement: Intel Dual-Core@2GHz Intel HD Graphic 2GB RAM
+or Android Lolipop 1GB RAM
+2. Screen size: 15.6 inch
+3. Screen resolution: higher than or equal to 960x720 and ratio 4:3
+4. Using physical buttons or touch screen
 ```
+
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1. Familiar with using computer/android and web browser
+2. The user range from 8-60 years old
 ```
 
 ## Part C: Prototypes

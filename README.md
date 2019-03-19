@@ -8,6 +8,10 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 
+![part1](/img/p1.jpg)
+
+![part2](/img/p2.jpg)
+
 ![part3](/img/p3.jpg)
 
 ![part4](/img/p4.jpg)

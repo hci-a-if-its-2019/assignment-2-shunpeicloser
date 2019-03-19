@@ -2,9 +2,6 @@
 Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
 ## Part A: Sketches
-Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
-
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
 
@@ -17,8 +14,52 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ![part4](/img/p4.jpg)
 
 ### 2. Version Differences
+#### 2.1 Solution for Problem 1
+**Main Solution**
 ```
-Please write a paragraph talking about the differences between the versions
+Because the user should know the change language feature fast, this feature must be placed at
+an easy-to-see place. Top of the page is an ideal position.
+```
+**Alternate Solution A**
+```
+Other than easy-to-see position, one can place a fixed button on the left screen that can be clicked
+to show the list of available languages.
+```
+**Alternate Solution B**
+```
+Just like the Alternate Solution A, but the button fixed into the bottom of screen.
+```
+#### 2.2 Solution for Problem 2
+**Main Solution**
+```
+The size of the frame should be adjusted. Use a left-right arrow to iterate through the
+object and show all objects below of the frame. (Both frame and objects are hyperlink) 
+```
+**Alternate Solution A**
+```
+All the objects (each object is hyperlink) are placed in a box and can be iterated using scroll.
+```
+**Alternate Solution B**
+```
+Similar to Main Solution, but don't show the objects below frame and make the frame's
+size bigger.
+```
+#### 2.3 Solution for Problem 3
+**Main Solution**
+```
+Instead of showing the new objects below the old objects, the "Load More" should hide or
+erase the old objects from the screen and show the new objects.
+```
+**Alternate Solution A**
+```
+One can make a left-right arrow to iterate through the objects. The hidden object should
+be erased from screen (to save memory) and the to-be-shown objects should be made.
+```
+**Alternate Solution B**
+```
+The page are divided into 2 part, The left part shows the detail of the object that's
+clicked and the right part shows the list of objects available and can be iterated 
+using scroll.
 ```
 
 ### 3. Selected Sketch

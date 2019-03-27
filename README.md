@@ -13,6 +13,18 @@ Using the information in the results of Assignment 1 for what is good and bad ab
 
 ![part4](/img/p4.jpg)
 
+#### Sketch using InVision
+
+![part5](/img/lowfid_1.png)
+
+![part6](/img/lowfid_2.png)
+
+![part7](/img/lowfid_3.png)
+
+![part8](/img/lowfid_4.png)
+
+**Note: Photo and InVision version of sketch have different numbering**
+
 ### 2. Version Differences
 #### 2.1 Solution for Problem 1
 **Main Solution**

@@ -92,6 +92,15 @@ iterate through objects only using click.
 The sketch and its selection are made by making oneself seeing the problem from the
 perspective without minding advanced techniques one know. Using this method, one will know
 what's wrong with the interface and what should one do to make it better.
+
+For the problem 1, the core problem is the place where language feature placed. So
+all the solutions made are making this feature visible when the user open the page.
+
+For the problem 2, the problems are bad frame size and the should-be hyperlink image. So
+all the solutions made are changing the frame size and use the image as hyperlink.
+
+For the problem 3, the problem mainly related to web browser performance. The solutions
+made contain destroying object that are not being shown.
 ```
 
 ## Part B: Assumptions

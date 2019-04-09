@@ -120,5 +120,4 @@ or Android Lolipop 1GB RAM
 ```
 
 ## Part C: Prototypes
-Link: https://invis.io/J2R80MZK6AF (Dead Link)
 Newer Link: https://invis.io/EQRBZ8IWUS2
